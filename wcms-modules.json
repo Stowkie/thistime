@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "thistime": {
+            "name": "thistime",
+            "repo": "https://github.com/Stowkie/thistime/tree/main",
+            "zip": "https://github.com/Stowkie/thistime/archive/master.zip",
+            "summary": "thistimeforsure",
+            "version": "1",
+            "image": "https://raw.githubusercontent.com/Stowkie/thistime/main/preview.jpg"
+        }
+    }
+}
