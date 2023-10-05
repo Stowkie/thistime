@@ -4,7 +4,7 @@
         "thistime": {
             "name": "thistime",
             "repo": "https://github.com/Stowkie/thistime/tree/main",
-            "zip": "https://github.com/robiso/universeGradient/archive/master.zip",
+            "zip": "https://github.com/Stowkie/thistime/archive/master.zip",
             "summary": "thistimeforsure",
             "version": "3.2.0",
             "image": "https://raw.githubusercontent.com/Stowkie/thistime/main/preview.jpg"
