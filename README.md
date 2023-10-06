@@ -2,7 +2,6 @@
 Fully responsive.
 
 ## Preview
-![Theme preview](/preview.jpg)
 
 ## How to use
 1. Login to your WonderCMS website.
