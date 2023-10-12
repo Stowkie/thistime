@@ -3,8 +3,8 @@
     "themes": {
         "universeGradient": {
             "name": "thistime",
-            "repo": "https://github.com/Stowkie/thistime/tree/master",
-            "zip": "https://github.com/Stowkie/thistime/archive/master.zip",
+            "repo": "https://github.com/Stowkie/thistime/tree/main",
+            "zip": "https://github.com/Stowkie/thistime/archive/main.zip",
             "summary": "terceira",
             "version": "3.2.0",
             "image": "https://raw.githubusercontent.com/Stowkie/thistime/master/preview.jpg"
