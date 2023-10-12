@@ -2,12 +2,12 @@
     "version": 1,
     "themes": {
         "universeGradient": {
-            "name": "UniverseGradient",
-            "repo": "https://github.com/robiso/universeGradient/tree/master",
-            "zip": "https://github.com/robiso/universeGradient/archive/master.zip",
-            "summary": "Universe gradient, variant of 2020 default theme.",
+            "name": "thistime",
+            "repo": "https://github.com/Stowkie/thistime/tree/master",
+            "zip": "https://github.com/Stowkie/thistime/archive/master.zip",
+            "summary": "terceira",
             "version": "3.2.0",
-            "image": "https://raw.githubusercontent.com/robiso/universeGradient/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/Stowkie/thistime/master/preview.jpg"
         }
     }
 }
