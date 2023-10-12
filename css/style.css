@@ -16,10 +16,6 @@ html, body {
 	flex: 1
 }
 
-a, a:hover {
-	color: #a5d5ff;
-}
-
 .h-05 {height: 0.5% !important;}
 .mainTitle {font-size: 6rem;}
 .padding20 {padding: 20px;}
