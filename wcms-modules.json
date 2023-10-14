@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "universeGradient": {
+        "thistime": {
             "name": "thistime",
             "repo": "https://github.com/Stowkie/thistime/tree/main",
             "zip": "https://github.com/Stowkie/thistime/archive/main.zip",
