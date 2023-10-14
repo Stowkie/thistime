@@ -2,7 +2,6 @@ html, body {
     height: 100%;
 	position: relative;
 	box-shadow: 0 0 200px rgba(0, 0, 0, 0.27) inset;
-	color: #fff;
 	font-family: "Lucida Sans Unicode", Verdana;
     background-image: url('https://i0.wp.com/azoresairlinesblog.com/wp-content/uploads/2021/03/3.jpg?fit=2362%2C1577&ssl=1');
     background-repeat: no-repeat;
@@ -54,12 +53,11 @@ ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.act
 	min-height: 110%;
 	min-width: 110%;
 	left: -50px;
-	background-color: url('https://i0.wp.com/azoresairlinesblog.com/wp-content/uploads/2021/03/3.jpg?fit=2362%2C1577&ssl=1');
+	background-image: url('https://i0.wp.com/azoresairlinesblog.com/wp-content/uploads/2021/03/3.jpg?fit=2362%2C1577&ssl=1');
 	-webkit-transform: rotate(-4deg);
 	-ms-transform: rotate(-4deg);
 	transform: rotate(-4deg);
 	z-index: 1041;
-	color: #212529;
 	position: relative
 }
 
@@ -77,12 +75,11 @@ ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.act
 		min-height: 80%;
 		min-width: 140%;
 		left: -40px;
-		background-color: url('https://i0.wp.com/azoresairlinesblog.com/wp-content/uploads/2021/03/3.jpg?fit=2362%2C1577&ssl=1');
+		background-image: url('https://i0.wp.com/azoresairlinesblog.com/wp-content/uploads/2021/03/3.jpg?fit=2362%2C1577&ssl=1');
 		-webkit-transform: rotate(-4deg);
 		-ms-transform: rotate(-4deg);
 		transform: rotate(-4deg);
 	    z-index: 1041;
-		color: #212529;
 		position: relative
 	}
 
