@@ -92,7 +92,3 @@
 
 	</body>
 </html>
-background-image: url('https://i0.wp.com/azoresairlinesblog.com/wp-content/uploads/2021/03/3.jpg?fit=2362%2C1577&ssl=1');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
